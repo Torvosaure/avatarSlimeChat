@@ -7,7 +7,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 Version initial.
 
 ### Ajouté
-  - Menu camembert configuration de l'avatar :
+  - **Menu camembert configuration de l'avatar :**
       - Bouton central de retour
       - Bouton pour quitter l'application
       - Menu pour changer de couleur :
@@ -19,28 +19,28 @@ Version initial.
           - Dormir : Bleu, yeux endormies, respiration lente, ventre étalé, queue ralentie
           - Normal : Rose, yeux fermés, respiration normale, queue normale
           - Flippant : Rose, yeux ouvert, respiration normale, queue normale
-          - Rage : En configuration
+          - Rage : _En configuration_
 
-  - Menu camembert configuration paramètres :
+  - **Menu camembert configuration paramètres :**
       - Bouton central de retour
       - Bouton pour quitter l'application
       - Menu de réglage des FPS :
           - 30 FPS
           - 60 FPS
       - Menu paramètrage de micro :
-          - En configuration
+          - _En configuration_
       - Menu de réglage de la taille des menus (SLIDER)
       - Menu choix de l'écran où regarde l'avatar
           - Écran où est l'avatar
           - Écran à droite de l'avatar
 
-- Modèle 3D de l'avatar
-- Texture de l'avatar :
+- **Modèle 3D de l'avatar**
+- **Texture de l'avatar :**
     - Texture Base Color blanche mixée à une couleur donné
     - Équivalent fresnel géometrique
-- Ajout de différents yeux :
+- **Ajout de différents yeux :**
     - Normals
     - Endormies
     - Énervés (+ "veine" rouge)
     - Ouverts
-    - Buggués
+    - _Buggués_
