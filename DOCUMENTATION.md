@@ -8,7 +8,7 @@ Les commandes dans la documentation se présentent tel que :
 **!nom commande [option] [paramètre]** : _Réponse_
 
 ## Pour les Viewers
-  - __!man --help__ : _Voici la documentation de l'avatar : **lien**_
+  - __!man --help__ : _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_
   - **!ping --help** : _Options disponibles :
       --water spawn : Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore (cooldown de 15 minutes)
       --save now : Me rappel de sauvegarder (cooldown de 2 minutes)
