@@ -35,7 +35,10 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
   - **Menu camembert test alertes raids (touche _R_) :**
       - Raid (spécifique)
-  
+
+  - **Paramètre supplémentaire :**
+      - No mic -> TTS de mes messages dans le chat
+      - Affichage de mes messages dans une bulle de texte
 
 ## [5.0] - 2025-06-27
 Version initial.
