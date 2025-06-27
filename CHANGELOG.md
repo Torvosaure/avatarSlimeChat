@@ -1,6 +1,7 @@
 # Change Log
 Tout les changements liés à l'avatar et le stream seront documentés ici.
-Aller à la [documentation](DOCUMENTATION.md)
+
+Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
 ## [5.0] - 2025-06-27
 Version initial.
