@@ -3,11 +3,45 @@ Tout les changements liés à l'avatar et le stream seront documentés ici.
 
 Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
+## [UNRELEASE] - XXXX-XX-XX
+
+### Correction :
+  - Configuration Actions Rage
+  - Configuration Paramètre microphone
+  - Correction _Buggué_
+
+### Ajout :
+  - **Menu camembert accessoires (touche _Bouton 4-5)_ :**
+      - Accessoires :
+          - Windblown (Super Dash) -> Dos
+          - Grounded (Science) -> Derrière
+          - Deep Rock Galactic (Barrel) -> Derrière
+          - Crosscode (Casque corne) -> Tête
+          - Kena (Bâton) -> Mur 
+          - South Of Midnight (Baguette) -> Dos
+  - **Menu camembert émote (touche _Bouton 4-5_) :**
+      - Patpat (5 secondes)
+      - Coeur avec la queue (5 secondes)
+  
+  - **Ajout des icones manquantes :**
+      - Actions énervé
+      - Actions _Buggué_
+  
+  - **Menu camembert test alertes (touche _Ctrl_) :**
+      - À boire
+      - Étirement
+      - Sauvegarde
+      - Follow (Softbody coeur)
+
+  - **Menu camembert test alertes raids (touche _R_) :**
+      - Raid (spécifique)
+  
+
 ## [5.0] - 2025-06-27
 Version initial.
 
-### Ajouté
-  - **Menu camembert configuration de l'avatar :**
+### Ajout :
+  - **Menu camembert configuration de l'avatar (touche _Tab_) :**
       - Bouton central de retour
       - Bouton pour quitter l'application
       - Menu pour changer de couleur :
@@ -21,7 +55,7 @@ Version initial.
           - Flippant : Rose, yeux ouvert, respiration normale, queue normale
           - Rage : _En configuration_
 
-  - **Menu camembert configuration paramètres :**
+  - **Menu camembert configuration paramètres  (touche _Alt_) :**
       - Bouton central de retour
       - Bouton pour quitter l'application
       - Menu de réglage des FPS :
