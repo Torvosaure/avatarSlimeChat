@@ -6,7 +6,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ## [UNRELEASE] - XXXX-XX-XX
 
 ### Correction :
-  - Configuration Actions Rage
+  - Configuration Actions Rage **(terminé)**
   - Configuration Paramètre microphone
   - Correction _Buggué_
 
