@@ -12,7 +12,9 @@ Les commandes dans la documentation se présentent tel que :
   - **!ping --help** : _Options disponibles :
     
       --water spawn (!bois | !drink): Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore (cooldown de 15 minutes)
+
       --save now (!sauvegarde | !save): Me rappel de sauvegarder (cooldown de 2 minutes)
+
       --stretch now (!etirement | !stretching: Me rappel de m'étirer (cooldown de 15 minutes)_
   - **!change --avatar angry** _(!enerver | !angry)_: _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_
   - **!emote --avatar <emote>** _(!patpat)_: _Les émotes sont : patpat (5 secondes)_
