@@ -8,21 +8,21 @@ Les commandes dans la documentation se présentent tel que :
 **!nom commande [option] [paramètre]** : _Réponse_
 
 ## Pour les Viewers
-  - __!man --help__ : _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_
+  - __!man --help__ _(!help)_: _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_
   - **!ping --help** : _Options disponibles :
-      --water spawn : Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore (cooldown de 15 minutes)
-      --save now : Me rappel de sauvegarder (cooldown de 2 minutes)
-      --stretch now : Me rappel de m'étirer (cooldown de 15 minutes)_
-  - **!change --avatar angry** : _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_
-  - **!emote --avatar <emote>** : _Les émotes sont : patpat (5 secondes)_
+      --water spawn (!bois | !drink): Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore (cooldown de 15 minutes)
+      --save now (!sauvegarde | !save): Me rappel de sauvegarder (cooldown de 2 minutes)
+      --stretch now (!etirement | !stretching: Me rappel de m'étirer (cooldown de 15 minutes)_
+  - **!change --avatar angry** _(!enerver | !angry)_: _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_
+  - **!emote --avatar <emote>** _(!patpat)_: _Les émotes sont : patpat (5 secondes)_
 
 ## Pour les Modérateurs
-  - **!echo --tts <message>** : _Permet de faire lire un message au Text To Speech_
+  - **!echo --tts <message>** _(!tts <message>_: _Permet de faire lire un message au Text To Speech_
 
 ## Pour les Administrateurs
-  - **!change --avatar sleeping** : _Applique l'avatar endormie_
-  - **!change --color <color>** : _Couleurs acceptées : Bleu, Rose, Rouge_
-  - **!change --position <position>** : _Positions disponibles : Gauche, Droite, Zoomé_
-  - **!shutdown now** : _Quitte l'application avatar_
-  - **!setmic --mute <on|off>** : _Mute ou demute la detection du microphone_
-  - **!setmic --volume <flaot>** : _Définie la sensibilité de la détection du microphone_
+  - **!change --avatar sleeping** _(!endormie | !sleeping)_: _Applique l'avatar endormie_
+  - **!change --color <color>** _(!setcolor <color>)_: _Couleurs acceptées : Bleu, Rose, Rouge_
+  - **!change --position <position>** _(!setpos <position>)_: _Positions disponibles : Gauche, Droite, Zoomé_
+  - **!shutdown now** _(!quit)_: _Quitte l'application avatar_
+  - **!setmic --mute <on|off>** _(!mute)_: _Mute ou demute la detection du microphone_
+  - **!setmic --volume <flaot>** _(!volMic <float>): _Définie la sensibilité de la détection du microphone (0.1)_
