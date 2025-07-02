@@ -7,7 +7,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
 ### Correction :
   - Configuration Actions Rage **(terminé)**
-  - Configuration Paramètre microphone **(en cours)**
+  - Configuration Paramètre microphone **(en cours: reste > icon Mics et plus grande limite d'échelle de parlage)**
   - Correction _Buggué_
   - Correction icône FPS pour enlever le pixel entre la lettre F et P **(terminé)**
 
@@ -25,7 +25,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - Coeur avec la queue (5 secondes)
   
   - **Ajout des icones manquantes :**
-      - Actions énervé **(en cours)**
+      - Actions énervé **(en cours: reste changer yeux)**
       - Actions _Buggué_
   
   - **Menu camembert test alertes (touche _Ctrl_) :**
@@ -40,9 +40,6 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   - **Paramètre supplémentaire :**
       - No mic -> TTS de mes messages dans le chat
       - Affichage de mes messages dans une bulle de texte
-   
-  - **Création d'une police d'écrire custom :**
-      - 18x18px
 
 ## [5.0] - 2025-06-27
 Version initial.
