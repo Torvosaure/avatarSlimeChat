@@ -8,7 +8,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ### Correction :
   - Configuration Actions Rage **(terminé)**
   - Configuration Paramètre microphone **(en cours: reste > icon Mics et plus grande limite d'échelle de parlage)**
-  - Correction _Buggué_
+  - Correction _Buggué_ **(supprimé)**
   - Correction icône FPS pour enlever le pixel entre la lettre F et P **(terminé)**
 
 ### Ajout :
@@ -26,7 +26,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   
   - **Ajout des icones manquantes :**
       - Actions énervé **(en cours: reste changer yeux)**
-      - Actions _Buggué_
+      - Actions _Buggué_ **(supprimé)**
   
   - **Menu camembert test alertes (touche _Ctrl_) :**
       - À boire
