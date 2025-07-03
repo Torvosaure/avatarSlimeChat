@@ -4,7 +4,7 @@ Tout les changements liés à l'avatar et le stream seront documentés ici.
 Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
 ✅ Terminé
-❎ En cours
+🟨 En cours
 ⛔ Supprimé
 ❓ Non commencé
 
@@ -12,7 +12,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
 ### Correction :
   - ✅ Configuration Actions Rage
-  - ❎ Configuration Paramètre microphone **(reste > icon Mics et plus grande limite d'échelle de parlage)**
+  - 🟨 Configuration Paramètre microphone **(reste > icon Mics et plus grande limite d'échelle de parlage)**
   - ⛔✅ Correction _Buggué_
   - ✅ Correction icône FPS pour enlever le pixel entre la lettre F et P **(terminé)**
 
