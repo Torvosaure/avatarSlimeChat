@@ -13,7 +13,6 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ### Correction :
   - ✅ Configuration Actions Rage
   - 🟨 Configuration Paramètre microphone **(reste > icon Mics et plus grande limite d'échelle de parlage)**
-  - ⛔✅ Correction _Buggué_
   - ✅ Correction icône FPS pour enlever le pixel entre la lettre F et P **(terminé)**
 
 ### Ajout :
@@ -31,7 +30,6 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   
   - **Ajout des icones manquantes :**
       - ✅ Actions énervé
-      - ⛔✅ Actions _Buggué_
   
   - **Menu camembert test alertes (touche _Ctrl_) :**
       - ❓ À boire
@@ -45,6 +43,11 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   - **Paramètre supplémentaire :**
       - ❓ No mic -> TTS de mes messages dans le chat
       - ❓ Affichage de mes messages dans une bulle de texte
+      - 🟨 Molette pour changer de micro (D -> X)
+
+### Suppression :
+  - ⛔ Suppression _Buggué_
+
 
 ## [5.0.0] - 2025-06-27
 Version initial.
@@ -70,8 +73,7 @@ Version initial.
       - ✅ Menu de réglage des FPS :
           - ✅ 30 FPS
           - ✅ 60 FPS
-      - ✅ Menu paramètrage de micro : **(VERSION 5.1)**
-          - ✅ Molette pour changer de micro (D -> X)
+      - ✅ Menu paramètrage de micro : **(VERSION 5.1.0)**
           - ✅ Bouton toggle de mute et de demute
       - ✅ Menu de réglage de la taille des menus (SLIDER)
       - ✅ Menu choix de l'écran où regarde l'avatar
@@ -87,4 +89,3 @@ Version initial.
     - ✅ Endormies
     - ✅ Énervés (+ "veine" rouge)
     - ✅ Ouverts
-    - ⛔✅ _Buggués_
