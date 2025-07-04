@@ -42,8 +42,10 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
   - **Paramètre supplémentaire :**
       - ❓ No mic -> TTS de mes messages dans le chat
-      - ❓ Affichage de mes messages dans une bulle de texte
-      - 🟨 Molette pour changer de micro (D -> X)
+      - 🟨 Affichage de mes messages dans une bulle de texte
+      - ✅ Molette pour changer de micro (D -> X)
+      - ✅ Possibilité d'utiliser une couleur prédéfinie pour les actions (touche _CTRL_)
+   
 
 ### Suppression :
   - ⛔ Suppression _Buggué_
