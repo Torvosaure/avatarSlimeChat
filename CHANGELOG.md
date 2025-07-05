@@ -42,7 +42,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
   - **Paramètre supplémentaire :**
       - 🟨 No mic -> TTS de mes messages dans le chat **(changer de voix)**
-      - 🟨 Affichage de mes messages dans une bulle de texte **(afficher émotes)**
+      - 🟨 Affichage de mes messages dans une bulle de texte **(réglage)**
       - 🟨 Molette pour changer de micro (D -> X) **(icons swap)**
       - ✅ Possibilité d'utiliser une couleur prédéfinie pour les actions (touche _CTRL_)
    
