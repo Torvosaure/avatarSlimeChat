@@ -41,7 +41,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Raid (spécifique)
 
   - **Paramètre supplémentaire :**
-      - ❓ No mic -> TTS de mes messages dans le chat
+      - 🟨 No mic -> TTS de mes messages dans le chat
       - 🟨 Affichage de mes messages dans une bulle de texte
       - ✅ Molette pour changer de micro (D -> X)
       - ✅ Possibilité d'utiliser une couleur prédéfinie pour les actions (touche _CTRL_)
