@@ -12,7 +12,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
 ### Correction :
   - ✅ Configuration Actions Rage
-  - 🟨 Configuration Paramètre microphone **(reste > icon Mics et plus grande limite d'échelle de parlage)**
+  - 🟨 Configuration Paramètre microphone **(switch icon Mics et plus grande limite d'échelle de parlage + changeur de sensibilité)**
   - ✅ Correction icône FPS pour enlever le pixel entre la lettre F et P **(terminé)**
 
 ### Ajout :
@@ -41,9 +41,9 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Raid (spécifique)
 
   - **Paramètre supplémentaire :**
-      - 🟨 No mic -> TTS de mes messages dans le chat
-      - 🟨 Affichage de mes messages dans une bulle de texte
-      - ✅ Molette pour changer de micro (D -> X)
+      - 🟨 No mic -> TTS de mes messages dans le chat **(changer de voix)**
+      - 🟨 Affichage de mes messages dans une bulle de texte **(afficher émotes)**
+      - 🟨 Molette pour changer de micro (D -> X) **(icons swap)**
       - ✅ Possibilité d'utiliser une couleur prédéfinie pour les actions (touche _CTRL_)
    
 
