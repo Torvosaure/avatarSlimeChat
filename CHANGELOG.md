@@ -41,7 +41,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Raid (spécifique)
 
   - **Paramètre supplémentaire :**
-      - 🟨 touche CTRL sur no mic -> TTS activé de mes messages dans le chat **(changer de voix)**
+      - 🟨 touche CTRL sur no mic -> TTS activé de mes messages dans le chat **(touche ctrl)**
       - 🟨 Affichage de mes messages dans une bulle de texte **(réglages : bulle bd pixel art, police monospace, police pixel art)**
       - 🟨 Molette pour changer de micro (D -> X) **(icons swap)**
       - ✅ Possibilité d'utiliser une couleur prédéfinie pour les actions (touche _CTRL_)
