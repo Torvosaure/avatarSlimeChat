@@ -32,6 +32,7 @@ Les commandes dans la documentation se présentent tel que :
 
 
 
+
 # Raccourcies claviers
 
 ## Globals :
