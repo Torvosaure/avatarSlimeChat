@@ -29,3 +29,22 @@ Les commandes dans la documentation se présentent tel que :
   - **!shutdown now** _(!quit)_: _Quitte l'application avatar_
   - **!setmic --mute <on|off>** _(!mute)_: _Mute ou demute la detection du microphone_
   - **!setmic --volume <flaot>** _(!volMic <float>): _Définie la sensibilité de la détection du microphone (0.1)_
+
+
+
+# Raccourcies claviers
+
+## Globals :
+  - ✅ **Clic droit** : Retour en arrière
+
+## Menu avatar :
+  - ✅ **TAB** : Ouvre le menu de configuration de l'avatar
+  - ✅ **CTRL + Clic gauche** _sur preset des yeux_ : Utilise le preset sans changer la couleur
+
+## Menu Paramètres :
+  - ✅ **ALT** : Ouvre le menu de configuration générale
+  - 🟨 **Micro** :
+      - ✅ **Molette** _sur icône micro Default_ : Change le micro sélectionné
+      - 🟨 **CTRL + Clic gauche** _sur l'icône de mute_ : Active et désactive le TTS (active visibilité de mes messages)
+      - ✅ **Clic gauche** _sur l'icône de mute_ : Active et désactive le Microphone
+      - ✅ **Molette** _sur l'icône de mute_ : Diminue et augmente la sensibilité de détection du microphone
