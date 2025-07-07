@@ -42,9 +42,10 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
   - **Paramètre supplémentaire :**
       - ✅ touche CTRL sur no mic -> TTS activé de mes messages dans le chat
-      - 🟨 Affichage de mes messages dans une bulle de texte **(réglages : police monospace, police pixel art)**
+      - ✅ Affichage de mes messages dans une bulle de texte
       - ✅ Molette pour changer de micro (D -> X)
       - ✅ Possibilité d'utiliser une couleur prédéfinie pour les actions (touche _CTRL_)
+      - 🟨 Activer ou désactiver ma bulle (activation automatique quand le micro est éteint)
    
 
 ### Suppression :
