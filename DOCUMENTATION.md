@@ -44,8 +44,8 @@ Les commandes dans la documentation se présentent tel que :
 
 ## Menu Paramètres :
   - ✅ **ALT** : Ouvre le menu de configuration générale
-  - 🟨 **Micro** :
+  - ✅ **Micro** :
       - ✅ **Molette** _sur icône micro Default_ : Change le micro sélectionné
-      - 🟨 **CTRL + Clic gauche** _sur l'icône de mute_ : Active et désactive le TTS (active visibilité de mes messages)
+      - ✅ **CTRL + Clic gauche** _sur l'icône de mute_ : Active et désactive le TTS (active visibilité de mes messages)
       - ✅ **Clic gauche** _sur l'icône de mute_ : Active et désactive le Microphone
       - ✅ **Molette** _sur l'icône de mute_ : Diminue et augmente la sensibilité de détection du microphone
