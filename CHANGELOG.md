@@ -45,7 +45,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ✅ Affichage de mes messages dans une bulle de texte
       - ✅ Molette pour changer de micro (D -> X)
       - ✅ Possibilité d'utiliser une couleur prédéfinie pour les actions (touche _CTRL_)
-      - 🟨 Activer ou désactiver ma bulle (activation automatique quand le micro est éteint ou quand le TTS est activé)
+      - ✅ Activer ou désactiver ma bulle (activation automatique quand le micro est éteint ou quand le TTS est activé)
     
 
 ### Suppression :
