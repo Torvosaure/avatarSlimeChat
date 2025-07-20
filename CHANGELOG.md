@@ -31,7 +31,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   - **Ajout des icones manquantes :**
       - ✅ Actions énervé
   
-  - **Menu camembert test alertes (touche _Ctrl_) :**
+  - **Menu camembert test alertes (touche _Shift_) :**
       - ❓ À boire
       - ❓ Étirement
       - ❓ Sauvegarde
