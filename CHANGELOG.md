@@ -32,10 +32,10 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ✅ Actions énervé
   
   - **Menu camembert test alertes (touche _Shift_) :**
-      - ❓ À boire
+      - 🟨 À boire
       - ❓ Étirement
       - ❓ Sauvegarde
-      - 🟨 Follow (Softbody coeur)
+        ✅ Follow (Softbody coeur)
 
   - **Menu camembert test alertes raids (touche _R_) :**
       - ❓ Raid (spécifique)
