@@ -27,15 +27,23 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   - **Menu camembert émote (touche _Bouton 4-5_) :**
       - ❓ Patpat (5 secondes)
       - ❓ Coeur avec la queue (5 secondes)
-  
+
+  - **Ajout d'un fichier de configuration :**
+      - ✅ Preset graphisme (low et high, msaa et aa)
+      - ✅ Seuil micro
+      - ✅ Numéro du micro
+      - ✅ FPS maximum
+      - ✅ Écran à détecter
+      - ✅ Keybinds
+      
   - **Ajout des icones manquantes :**
       - ✅ Actions énervé
   
   - **Menu camembert test alertes (touche _Shift_) :**
-      - 🟨 À boire
+      - 🟨 À boire (changer graphisme)
       - ❓ Étirement
       - ❓ Sauvegarde
-      - ✅ Follow (Softbody coeur)
+      - ✅ Follow
 
   - **Menu camembert test alertes raids (touche _R_) :**
       - ❓ Raid (spécifique)
