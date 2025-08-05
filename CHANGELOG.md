@@ -44,7 +44,12 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Étirement
       - ❓ Sauvegarde
       - ✅ Follow
-
+      
+  - **Modification du système de couleur :**
+      - ❓ Couleur simple changé si changement couleur normal
+      - ❓ Couleur gradient haut si shift
+      - ❓ Couleur gradient bas si ctrl
+      
   - **Menu camembert test alertes raids (touche _R_) :**
       - ❓ Raid (spécifique)
 
@@ -55,7 +60,9 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ✅ Possibilité d'utiliser une couleur prédéfinie pour les actions (touche _CTRL_)
       - ✅ Activer ou désactiver ma bulle (activation automatique quand le micro est éteint ou quand le TTS est activé)
     
-
+   - **Changement menu camerbert global :**
+      - ❓ Paramètre seconde couche ajoutant taille des boutons
+      
 ### Suppression :
   - ⛔ Suppression _Buggué_
 
