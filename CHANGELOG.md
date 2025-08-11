@@ -34,7 +34,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ✅ Numéro du micro
       - ✅ FPS maximum
       - ✅ Écran à détecter
-      - ✅ Keybinds
+      - 🟨 Keybinds (à ajouter : ctrl et shift)
       
   - **Ajout des icones manquantes :**
       - ✅ Actions énervé
