@@ -8,7 +8,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ⛔ Supprimé
 ❓ Non commencé
 
-## [UNRELEASE - 5.1.0] - XXXX-XX-XX
+## [UNRELEASE - 5.2.0] - XXXX-XX-XX
 
 ### Correction :
   - ✅ Configuration Actions Rage
@@ -46,10 +46,13 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ✅ Follow
       
   - **Modification du système de couleur :**
-      - ❓ Couleur simple changé si changement couleur normal
-      - ❓ Couleur gradient haut si shift
-      - ❓ Couleur gradient bas si ctrl
-      
+      - ✅ Couleur simple changé si changement couleur normal
+      - ✅ Couleur gradient haut si shift
+      - ✅ Couleur gradient bas si ctrl
+
+  - **Modification du système de position :**
+      - 🟨 Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
+  
   - **Menu camembert test alertes raids (touche _R_) :**
       - ❓ Raid (spécifique)
 
@@ -61,7 +64,8 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ✅ Activer ou désactiver ma bulle (activation automatique quand le micro est éteint ou quand le TTS est activé)
     
    - **Changement menu camerbert global :**
-      - ❓ Paramètre seconde couche ajoutant taille des boutons
+      - ✅ Paramètre seconde couche ajoutant taille des boutons
+      - ✅ Changement de la gestion de la seconde couche
       
 ### Suppression :
   - ⛔ Suppression _Buggué_
