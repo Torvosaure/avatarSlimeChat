@@ -16,6 +16,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Coeur avec la queue (5 secondes)
 
   - **Menu camembert test alertes (touche _Shift_) :**
+      - 🟨 À boire (changer graphisme)
       - ❓ Étirement
       - ❓ Sauvegarde
       - 🟨 Follow (setup texte)
@@ -46,7 +47,6 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ✅ Actions énervé
   
   - **Menu camembert test alertes (touche _Shift_) :**
-      - 🟨 À boire (changer graphisme)
       - ✅ Follow (autoalert setup)
       
   - **Modification du système de couleur :**
