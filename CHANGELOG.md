@@ -18,6 +18,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   - **Menu camembert test alertes (touche _Shift_) :**
       - ❓ Étirement
       - ❓ Sauvegarde
+      - 🟨 Follow (setup texte)
     
   - **Menu camembert test alertes raids (touche _R_) :**
       - ❓ Raid (spécifique)
@@ -46,7 +47,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   
   - **Menu camembert test alertes (touche _Shift_) :**
       - 🟨 À boire (changer graphisme)
-      - 🟨 Follow (add autoalert)
+      - ✅ Follow (autoalert setup)
       
   - **Modification du système de couleur :**
       - ✅ Couleur simple changé si changement couleur normal
