@@ -8,6 +8,23 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ⛔ Supprimé
 ❓ Non commencé
 
+## [UNRELEASE - 5.3.0] - XXXX-XX-XX
+
+### **Ajout :**
+  - **Menu camembert émote (touche _Bouton 4-5_) :**
+      - ❓ Patpat (5 secondes)
+      - ❓ Coeur avec la queue (5 secondes)
+
+  - **Menu camembert test alertes (touche _Shift_) :**
+      - ❓ Étirement
+      - ❓ Sauvegarde
+    
+  - **Menu camembert test alertes raids (touche _R_) :**
+      - ❓ Raid (spécifique)
+
+  - **Modification du système de position :**
+      - 🟨 Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
+  
 ## [UNRELEASE - 5.2.0] - XXXX-XX-XX
 
 ### Correction :
@@ -16,18 +33,6 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   - ✅ Correction icône FPS pour enlever le pixel entre la lettre F et P
 
 ### Ajout :
-  - **Menu camembert accessoires (touche _Bouton 4-5)_ :**
-      - Accessoires :
-          - ❓ Windblown (Super Dash) -> Dos
-          - ❓ Grounded (Science) -> Derrière
-          - ❓ Deep Rock Galactic (Barrel) -> Derrière
-          - ❓ Crosscode (Casque corne) -> Tête
-          - ❓ Kena (Bâton) -> Mur 
-          - ❓ South Of Midnight (Baguette) -> Dos
-  - **Menu camembert émote (touche _Bouton 4-5_) :**
-      - ❓ Patpat (5 secondes)
-      - ❓ Coeur avec la queue (5 secondes)
-
   - **Ajout d'un fichier de configuration :**
       - ✅ Preset graphisme (low et high, msaa et aa)
       - ✅ Seuil micro
@@ -41,20 +46,12 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   
   - **Menu camembert test alertes (touche _Shift_) :**
       - 🟨 À boire (changer graphisme)
-      - ❓ Étirement
-      - ❓ Sauvegarde
-      - ✅ Follow
+      - 🟨 Follow (add autoalert)
       
   - **Modification du système de couleur :**
       - ✅ Couleur simple changé si changement couleur normal
       - ✅ Couleur gradient haut si shift
       - ✅ Couleur gradient bas si ctrl
-
-  - **Modification du système de position :**
-      - 🟨 Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
-  
-  - **Menu camembert test alertes raids (touche _R_) :**
-      - ❓ Raid (spécifique)
 
   - **Paramètre supplémentaire :**
       - ✅ touche CTRL sur no mic -> TTS activé de mes messages dans le chat
