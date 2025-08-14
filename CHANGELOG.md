@@ -19,7 +19,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - 🟨 À boire (changer graphisme)
       - ❓ Étirement
       - ❓ Sauvegarde
-      - 🟨 Follow (setup texte)
+      - ✅ Follow (setup texte)
     
   - **Menu camembert test alertes raids (touche _R_) :**
       - ❓ Raid (spécifique)
