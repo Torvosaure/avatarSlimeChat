@@ -8,7 +8,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ⛔ Supprimé
 ❓ Non commencé
 
-## [UNRELEASE - 5.3.0] - XXXX-XX-XX
+## [5.3.0] - XXXX-XX-XX
 
 ### **Ajout :**
   - **Menu camembert émote (touche _Bouton 4-5_) :**
