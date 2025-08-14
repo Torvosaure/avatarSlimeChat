@@ -27,7 +27,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   - **Modification du système de position :**
       - 🟨 Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
   
-## [UNRELEASE - 5.2.0] - XXXX-XX-XX
+## [UNRELEASE - 5.2.0] - 2025-08-14
 
 ### Correction :
   - ✅ Configuration Actions Rage
