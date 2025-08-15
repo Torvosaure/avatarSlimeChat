@@ -16,12 +16,13 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Coeur avec la queue (5 secondes)
 
   - **Menu camembert test alertes (touche _Shift_) :**
-      - 🟨 À boire (changer graphisme)
+      - 🟨 À boire (cascade/vague icône)
       - ❓ Étirement
       - ❓ Sauvegarde
       - ✅ Follow (setup texte)
     
   - **Menu camembert test alertes raids (touche _R_) :**
+      - 🟨 Graphisme raid (owner, blob)
       - ❓ Raid (spécifique)
 
   - **Modification du système de position :**
