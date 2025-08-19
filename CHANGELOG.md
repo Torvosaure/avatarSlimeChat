@@ -25,7 +25,8 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - 🟨 Graphisme raid (owner, blob)
       - 🟨 Raid :
           - ✅ Système de preset
-          - ❓ Coupe de cheveux
+          - ✅ Coupe de cheveux
+          - ✅ Habits (pants, body)
           - ✅ Spawn owner et viewers
           - 🟨 Pas preset
           - 🟨 Panneau "RAID"
