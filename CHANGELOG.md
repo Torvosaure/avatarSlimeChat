@@ -23,7 +23,12 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
     
   - **Menu camembert test alertes raids (touche _R_) :**
       - 🟨 Graphisme raid (owner, blob)
-      - 🟨 Raid (random preset)
+      - 🟨 Raid :
+          - ✅ Système de preset
+          - ❓ Coupe de cheveux
+          - ✅ Spawn owner et viewers
+          - 🟨 Pas preset
+          - 🟨 Panneau "RAID"
 
   - **Modification du système de position :**
       - 🟨 Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
