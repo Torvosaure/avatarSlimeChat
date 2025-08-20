@@ -20,19 +20,16 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Étirement
       - ❓ Sauvegarde
       - ✅ Follow (setup texte)
-    
-  - **Menu camembert test alertes raids (touche _R_) :**
-      - 🟨 Graphisme raid (owner, blob)
-      - 🟨 Raid :
+      - 🟨 Raid
           - ✅ Système de preset
           - ✅ Coupe de cheveux
           - ✅ Habits (pants, body)
           - ✅ Spawn owner et viewers
-          - 🟨 Pas preset
+          - ✅ Random preset
           - 🟨 Panneau "RAID"
 
   - **Modification du système de position :**
-      - 🟨 Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
+      - ❓ Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
   
 ## [5.2.0] - 2025-08-14
 
