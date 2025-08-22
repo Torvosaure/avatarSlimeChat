@@ -20,13 +20,14 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Étirement
       - 🟨 Sauvegarde (fini mais ajouter command tchat)
       - ✅ Follow (setup texte)
-      - 🟨 Raid
+      - ✅ Raid
           - ✅ Système de preset
           - ✅ Coupe de cheveux
           - ✅ Habits (pants, body)
           - ✅ Spawn owner et viewers
           - ✅ Random preset
-          - 🟨 Panneau "RAID"
+          - ✅ Panneau "RAID"
+          - ✅ Icons (tmp)
 
   - **Modification du système de position :**
       - ❓ Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
