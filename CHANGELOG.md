@@ -28,6 +28,8 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
           - ✅ Random preset
           - ✅ Panneau "RAID"
           - ✅ Icons (tmp)
+          - 🟨 Ajouter plus de coupe de cheveux
+          - 🟨 Changer système de couleur pour générer de meilleurs random
 
   - **Modification du système de position :**
       - ❓ Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
