@@ -18,7 +18,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   - **Menu camembert test alertes (touche _Shift_) :**
       - 🟨 À boire (cascade/vague icône)
       - ❓ Étirement
-      - 🟨 Sauvegarde (fini mais ajouter command tchat)
+      - ✅ Sauvegarde
       - ✅ Follow (setup texte)
       - ✅ Raid
           - ✅ Système de preset
