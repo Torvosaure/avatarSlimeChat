@@ -33,7 +33,7 @@ Les commandes dans la documentation se présentent tel que :
 
 
 
-# Raccourcies claviers
+# Raccourcis clavier
 
 ## Globals :
   - ✅ **Clic droit** : Retour en arrière
