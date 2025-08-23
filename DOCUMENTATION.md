@@ -8,22 +8,22 @@ Les commandes dans la documentation se présentent tel que :
 **!nom commande [option] [paramètre]** : _Réponse_
 
 ## Pour les Viewers
-  - __!man --help__ _(!help)_: _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_
-  - **!ping --help** : _Options disponibles :
+  - ✅ __!help__ : _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_
+  - 🟨 **!ping --help** : _Options disponibles_ :
     
-      --water (!bois | !drink): Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore (cooldown de 15 minutes)
+      --drink (!bois | !drink): Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore
 
-      --save (!sauvegarde | !save): Me rappel de sauvegarder (cooldown de 2 minutes)
+      ✅ --save (!sauvegarde | !save): Me rappel de sauvegarder
 
-      --stretch (!etirement | !stretching: Me rappel de m'étirer (cooldown de 15 minutes)_
-  - **!change --avatar angry** _(!enerver | !angry)_: _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_
+      --stretch (!etirement | !stretching: Me rappel de m'étirer_
+  - ✅ **!change --avatar angry** _(!enerver | !angry)_: _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_
   - **!emote --avatar <emote>** _(!patpat)_: _Les émotes sont : patpat (5 secondes)_
 
 ## Pour les Modérateurs
   - **!echo --tts <message>** _(!tts <message>_: _Permet de faire lire un message au Text To Speech_
 
 ## Pour les Administrateurs
-  - **!change --avatar sleeping** _(!endormie | !sleeping)_: _Applique l'avatar endormie_
+  - ✅ **!change --avatar sleeping** _(!endormie | !sleeping)_: _Applique l'avatar endormie_
   - **!change --color <color>** _(!setcolor <color>)_: _Couleurs acceptées : Bleu, Rose, Rouge_
   - **!change --position <position>** _(!setpos <position>)_: _Positions disponibles : Gauche, Droite, Zoomé_
   - **!shutdown now** _(!quit)_: _Quitte l'application avatar_
