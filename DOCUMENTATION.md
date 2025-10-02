@@ -10,16 +10,17 @@ Les commandes dans la documentation se présentent tel que :
 ## Pour les Viewers
   - ✅ __!help__ : _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_
   - 🟨 **!ping --help** : _Options disponibles_ :
+      ✅ --love <nb> (!amour <nb> | !love <nb>: _M'envoyer des coeurs_
     
-      --drink (!bois | !drink): Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore
+      ✅ --save (!sauvegarde | !save): _Me rappel de sauvegarder_
 
-      ✅ --save (!sauvegarde | !save): Me rappel de sauvegarder
+      --drink (!bois | !drink): _Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore
 
-      --stretch (!etirement | !stretching: Me rappel de m'étirer_
 
-      ✅ --love <nb> (!amour <nb> | !love <nb>: M'envoyer des coeurs_
+      --stretch (!etirement | !stretching: _Me rappel de m'étirer_
+
   - ✅ **!change --avatar angry** _(!enerver | !angry)_: _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_
-  - 🟨 **!emote --avatar <emote>** _(!patpat)_: _Les émotes sont : patpat (5 secondes)_
+  - 🟨 **!emote --avatar <emote>** _(!patpat)_: _Les émotes sont : patpat classique (5 secondes)_
 
 ## Pour les Modérateurs
   - **!echo --tts <message>** _(!tts <message>_: _Permet de faire lire un message au Text To Speech_
