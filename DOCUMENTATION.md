@@ -19,7 +19,7 @@ Les commandes dans la documentation se présentent tel que :
 
       ✅ --love <nb> (!amour <nb> | !love <nb>: M'envoyer des coeurs_
   - ✅ **!change --avatar angry** _(!enerver | !angry)_: _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_
-  - **!emote --avatar <emote>** _(!patpat)_: _Les émotes sont : patpat (5 secondes)_
+  - 🟨 **!emote --avatar <emote>** _(!patpat)_: _Les émotes sont : patpat (5 secondes)_
 
 ## Pour les Modérateurs
   - **!echo --tts <message>** _(!tts <message>_: _Permet de faire lire un message au Text To Speech_
