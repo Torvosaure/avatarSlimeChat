@@ -16,6 +16,8 @@ Les commandes dans la documentation se présentent tel que :
       ✅ --save (!sauvegarde | !save): Me rappel de sauvegarder
 
       --stretch (!etirement | !stretching: Me rappel de m'étirer_
+
+      ✅ --love <nb> (!amour <nb> | !love <nb>: M'envoyer des coeurs_
   - ✅ **!change --avatar angry** _(!enerver | !angry)_: _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_
   - **!emote --avatar <emote>** _(!patpat)_: _Les émotes sont : patpat (5 secondes)_
 
