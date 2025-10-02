@@ -10,20 +10,20 @@ Les commandes dans la documentation se présentent tel que :
 ## Pour les Viewers
   - ✅ __!help__ : _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_
   - 🟨 **!ping --help** : _Options disponibles_ :
-      ✅ --love <nb> (!amour <nb> | !love <nb>: _M'envoyer des coeurs_
     
-      ✅ --save (!sauvegarde | !save): _Me rappel de sauvegarder_
+      - ✅ --love <nb> _(!amour <nb> | !love <nb>)_: _M'envoyer des coeurs_
+    
+      - ✅ --save _(!sauvegarde | !save)_: _Me rappel de sauvegarder_
 
-      --drink (!bois | !drink): _Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore
+      - --drink _(!bois | !drink)_: _Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore
 
-
-      --stretch (!etirement | !stretching: _Me rappel de m'étirer_
+      - --stretch _(!etirement | !stretching)_: _Me rappel de m'étirer_
 
   - ✅ **!change --avatar angry** _(!enerver | !angry)_: _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_
   - 🟨 **!emote --avatar <emote>** _(!patpat)_: _Les émotes sont : patpat classique (5 secondes)_
 
 ## Pour les Modérateurs
-  - **!echo --tts <message>** _(!tts <message>_: _Permet de faire lire un message au Text To Speech_
+  - **!echo --tts <message>** _(!tts <message>)_: _Permet de faire lire un message au Text To Speech_
 
 ## Pour les Administrateurs
   - ✅ **!change --avatar sleeping** _(!endormie | !sleeping)_: _Applique l'avatar endormie_
@@ -31,7 +31,7 @@ Les commandes dans la documentation se présentent tel que :
   - **!change --position <position>** _(!setpos <position>)_: _Positions disponibles : Gauche, Droite, Zoomé_
   - **!shutdown now** _(!quit)_: _Quitte l'application avatar_
   - **!setmic --mute <on|off>** _(!mute)_: _Mute ou demute la detection du microphone_
-  - **!setmic --volume <flaot>** _(!volMic <float>): _Définie la sensibilité de la détection du microphone (0.1)_
+  - **!setmic --volume <flaot>** _(!volMic <float>)_: _Définie la sensibilité de la détection du microphone (0.1)_
 
 
 
