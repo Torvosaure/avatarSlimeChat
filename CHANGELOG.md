@@ -12,7 +12,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
 ### **Ajout :**
   - **Menu camembert émote (touche _Bouton 4-5_) :**
-      - 🟨 Patpat (5 secondes)
+      - 🟨 Patpat classique (5 secondes)
       - ❓ Coeur avec la queue (5 secondes)
 
   - **Menu camembert test alertes (touche _Shift_) :**
