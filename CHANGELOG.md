@@ -12,7 +12,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
 ### **Ajout :**
   - **Menu camembert émote (touche _Bouton 4-5_) :**
-      - ❓ Patpat (5 secondes)
+      - 🟨 Patpat (5 secondes)
       - ❓ Coeur avec la queue (5 secondes)
 
   - **Menu camembert test alertes (touche _Shift_) :**
@@ -32,7 +32,10 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
   - **Modification du système de position :**
       - ❓ Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
-  
+
+### Correction :
+  - ✅ TTS ne lis plus les commands commençant par "!"
+
 ## [5.2.0] - 2025-08-14
 
 ### Correction :
