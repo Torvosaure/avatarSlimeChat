@@ -42,7 +42,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
           - ✅ Panneau "RAID"
           - ✅ Icons (tmp)
           - 🟨 Ajouter plus de coupe de cheveux
-          - ❓ Random version vers moins random
+  
           
   - **Sons :**
       - ❓ Son collisions entre objets et avatar
