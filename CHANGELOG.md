@@ -8,7 +8,20 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ⛔ Supprimé
 ❓ Non commencé
 
+## [UNRELEASED - 5.4.0] - XXXX-XX-XX
+### **Ajout :** 
+  - **Modification du système de position :**
+      - ❓ Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
+  
+  - **Menus camembert :**
+      - ❓ Changement couleurs pie menus quand modifier key est pressée 
+
+
 ## [UNRELEASED - 5.3.0] - XXXX-XX-XX
+
+### Correction :
+  - ✅ TTS ne lis plus les commands commençant par "!"
+  - ❓ Désactiver les alertes lorsque l'avatar est zoomé
 
 ### **Ajout :**
   - **Menu camembert émote (touche _Bouton 4-5_) :**
@@ -29,12 +42,12 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
           - ✅ Panneau "RAID"
           - ✅ Icons (tmp)
           - 🟨 Ajouter plus de coupe de cheveux
-
-  - **Modification du système de position :**
-      - ❓ Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
-
-### Correction :
-  - ✅ TTS ne lis plus les commands commençant par "!"
+          - ❓ Random version vers moins random
+          
+  - **Sons :**
+      - ❓ Son collisions entre objets et avatar
+      - ❓ Son ctrl+s
+      - ❓ Son raid
 
 ## [5.2.0] - 2025-08-14
 
