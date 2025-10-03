@@ -33,7 +33,7 @@ Les commandes dans la documentation se présentent tel que :
 | ❓ | **!change --color *color*** | !setcolor *color* | _Couleurs acceptées : Bleu, Rose, Rouge_ |
 | ❓ | **!change --position *position*** | !setpos *position* | _Positions disponibles : Gauche, Droite, Zoomé_ |
 | ❓ | **!shutdown now** | !quit | _Quitte l'application avatar_ |
-| ❓ | **!setmic --mute *on/off*** | !mute | _Mute ou demute la detection du microphone_ |
+| ❓ | **!setmic --mute *on/off*** | !mute (toggle) | _Mute ou demute la detection du microphone_ |
 | ❓ | **!setmic --volume *float*** | !volmic *float* | _Définie la sensibilité de la détection du microphone (0.1)_ |
 
 ---
