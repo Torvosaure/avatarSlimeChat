@@ -8,6 +8,12 @@ Les commandes dans la documentation se présentent tel que :
 **!nom commande [option] [paramètre]** : _Réponse_
 
 ## Pour les Viewers
+
+
+| Commands       | Alias | Descriptions     |
+|----------------|-------|------------------|
+| !help          |*none* | _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_   |
+| !ping --love <nb> | !amour / !love | _M'envoyer des coeurs_ |
   - ✅ __!help__ : _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_
   - 🟨 **!ping --help** : _Options disponibles_ :
     
