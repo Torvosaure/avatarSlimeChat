@@ -11,30 +11,30 @@ Les commandes dans la documentation se présentent tel que :
 
 | État | Commands       | Alias | Descriptions     |
 |:----:|----------------|-------|------------------|
-|  🟨  | **!help**          |*none* | _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_   |
+| 🟨 | **!help**          |*none* | _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_   |
 | ✅ | **!ping --love *nb*** | !amour / !love | _M'envoyer des coeurs_ |
 | ✅ | **!ping --save** | !sauvegarde / !save | _Me rappel de sauvegarder_ |
-| | **!ping --drink** | !bois / !drink | _Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore_ |
-| | **!ping --stretch** | !etirement / !stretching | _Me rappel de m'étirer_ |
+| ❓ | **!ping --drink** | !bois / !drink | _Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore_ |
+| ❓ | **!ping --stretch** | !etirement / !stretching | _Me rappel de m'étirer_ |
 | ✅ | **!change --avatar angry** | !enerver / !angry | _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_ |
-|  | **!emote --avatar *emote*** | !patpat | _Les émotes sont : patpat (5 secondes)_ |
+| ❓ | **!emote --avatar *emote*** | !patpat | _Les émotes sont : patpat (5 secondes)_ |
 
 ## Pour les Modérateurs
 
 | État | Commands       | Alias | Descriptions     |
 |:----:|----------------|-------|------------------|
-| | **!echo --tts *message***          | !tts *message* |  _Permet de faire lire un message au Text To Speech_  |
+| ❓ | **!echo --tts *message***          | !tts *message* |  _Permet de faire lire un message au Text To Speech_  |
 
 ## Pour les Administrateurs
 
 | État | Commands       | Alias | Descriptions     |
 |:----:|----------------|-------|------------------|
-|  ✅  | **!change --avatar sleeping** | !endormie / !sleeping | _Applique l'avatar endormie_ |
-| | **!change --color *color*** | !setcolor *color* | _Couleurs acceptées : Bleu, Rose, Rouge_ |
-| | **!change --position *position*** | !setpos *position* | _Positions disponibles : Gauche, Droite, Zoomé_ |
-| | **!shutdown now** | !quit | _Quitte l'application avatar_ |
-| | **!setmic --mute *on/off*** | !mute | _Mute ou demute la detection du microphone_ |
-| | **!setmic --volume *float*** | !volmic *float* | _Définie la sensibilité de la détection du microphone (0.1)_ |
+| ✅ | **!change --avatar sleeping** | !endormie / !sleeping | _Applique l'avatar endormie_ |
+| ❓ | **!change --color *color*** | !setcolor *color* | _Couleurs acceptées : Bleu, Rose, Rouge_ |
+| ❓ | **!change --position *position*** | !setpos *position* | _Positions disponibles : Gauche, Droite, Zoomé_ |
+| ❓ | **!shutdown now** | !quit | _Quitte l'application avatar_ |
+| ❓ | **!setmic --mute *on/off*** | !mute | _Mute ou demute la detection du microphone_ |
+| ❓ | **!setmic --volume *float*** | !volmic *float* | _Définie la sensibilité de la détection du microphone (0.1)_ |
 
 ---
 
