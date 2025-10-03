@@ -9,38 +9,34 @@ Les commandes dans la documentation se présentent tel que :
 
 ## Pour les Viewers
 
-
-| Commands       | Alias | Descriptions     |
-|----------------|-------|------------------|
-| !help          |*none* | _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_   |
-| !ping --love <nb> | !amour / !love | _M'envoyer des coeurs_ |
-  - ✅ __!help__ : _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_
-  - 🟨 **!ping --help** : _Options disponibles_ :
-    
-      - ✅ --love <nb> _(!amour <nb> | !love <nb>)_: _M'envoyer des coeurs_
-    
-      - ✅ --save _(!sauvegarde | !save)_: _Me rappel de sauvegarder_
-
-      - --drink _(!bois | !drink)_: _Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore
-
-      - --stretch _(!etirement | !stretching)_: _Me rappel de m'étirer_
-
-  - ✅ **!change --avatar angry** _(!enerver | !angry)_: _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_
-  - 🟨 **!emote --avatar <emote>** _(!patpat)_: _Les émotes sont : patpat classique (5 secondes)_
+| État | Commands       | Alias | Descriptions     |
+|:----:|----------------|-------|------------------|
+|  🟨  | **!help**          |*none* | _Voici la documentation de l'avatar : **[Documentation](https://github.com/Torvosaure/avatarSlimeChat/blob/main/DOCUMENTATION.md)**_   |
+| ✅ | **!ping --love *nb*** | !amour / !love | _M'envoyer des coeurs_ |
+| ✅ | **!ping --save** | !sauvegarde / !save | _Me rappel de sauvegarder_ |
+| | **!ping --drink** | !bois / !drink | _Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore_ |
+| | **!ping --stretch** | !etirement / !stretching | _Me rappel de m'étirer_ |
+| ✅ | **!change --avatar angry** | !enerver / !angry | _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_ |
+|  | **!emote --avatar *emote*** | !patpat | _Les émotes sont : patpat (5 secondes)_ |
 
 ## Pour les Modérateurs
-  - **!echo --tts <message>** _(!tts <message>)_: _Permet de faire lire un message au Text To Speech_
+
+| État | Commands       | Alias | Descriptions     |
+|:----:|----------------|-------|------------------|
+| | **!echo --tts *message***          | !tts *message* |  _Permet de faire lire un message au Text To Speech_  |
 
 ## Pour les Administrateurs
-  - ✅ **!change --avatar sleeping** _(!endormie | !sleeping)_: _Applique l'avatar endormie_
-  - **!change --color <color>** _(!setcolor <color>)_: _Couleurs acceptées : Bleu, Rose, Rouge_
-  - **!change --position <position>** _(!setpos <position>)_: _Positions disponibles : Gauche, Droite, Zoomé_
-  - **!shutdown now** _(!quit)_: _Quitte l'application avatar_
-  - **!setmic --mute <on|off>** _(!mute)_: _Mute ou demute la detection du microphone_
-  - **!setmic --volume <flaot>** _(!volMic <float>)_: _Définie la sensibilité de la détection du microphone (0.1)_
 
+| État | Commands       | Alias | Descriptions     |
+|:----:|----------------|-------|------------------|
+|  ✅  | **!change --avatar sleeping** | !endormie / !sleeping | _Applique l'avatar endormie_ |
+| | **!change --color *color*** | !setcolor *color* | _Couleurs acceptées : Bleu, Rose, Rouge_ |
+| | **!change --position *position*** | !setpos *position* | _Positions disponibles : Gauche, Droite, Zoomé_ |
+| | **!shutdown now** | !quit | _Quitte l'application avatar_ |
+| | **!setmic --mute *on/off*** | !mute | _Mute ou demute la detection du microphone_ |
+| | **!setmic --volume *float*** | !volmic *float* | _Définie la sensibilité de la détection du microphone (0.1)_ |
 
-
+---
 
 # Raccourcis clavier
 
