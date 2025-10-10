@@ -14,18 +14,19 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
   
   - **Menus camembert :**
-      - ❓ Changement couleurs pie menus quand modifier key est pressée 
+      - ❓ Changement couleurs pie menus quand modifier key est pressée
 
+### **Correction :**
+  - ❓ Désactiver les alertes lorsque l'avatar est zoomé
 
 ## [UNRELEASED - 5.3.0] - XXXX-XX-XX
 
 ### Correction :
   - ✅ TTS ne lis plus les commands commençant par "!"
-  - ❓ Désactiver les alertes lorsque l'avatar est zoomé
 
 ### **Ajout :**
-  - **Menu camembert émote (touche _Bouton 4-5_) :**
-      - 🟨 Patpat classique (5 secondes)
+  - **Menu camembert émote (touche _Bouton E_) :**
+      - 🟨 Patpat classique (5 secondes) (icon)
       - ❓ Coeur avec la queue (5 secondes)
 
   - **Menu camembert test alertes (touche _Shift_) :**
