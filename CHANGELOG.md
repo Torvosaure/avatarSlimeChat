@@ -108,7 +108,7 @@ Version initial.
           - ✅ Dormir : Bleu, yeux endormies, respiration lente, ventre étalé, queue ralentie
           - ✅ Normal : Rose, yeux fermés, respiration normale, queue normale
           - ✅ Flippant : Rose, yeux ouvert, respiration normale, queue normale
-          - ✅ Rage :Rouge, yeux énervé, respiration rapide, queue stressé
+          - ✅ Rage : Rouge, yeux énervé, respiration rapide, queue stressé
 
   - **Menu camembert configuration paramètres  (touche _Alt_) :**
       - ✅ Bouton central de retour
