@@ -16,6 +16,10 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   - **Menus camembert :**
       - ❓ Changement couleurs pie menus quand modifier key est pressée
 
+### **Modification :**
+  - **Avatar :**
+    - ❓ Textures avatar version pixel art
+
 ### **Correction :**
   - ❓ Désactiver les alertes lorsque l'avatar est zoomé
 
@@ -41,12 +45,15 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
           - ✅ Spawn owner et viewers
           - ✅ Random preset
           - ✅ Panneau "RAID"
-          - ✅ Icons (tmp)
-          - 🟨 Ajouter plus de coupe de cheveux
+          - ✅ Icônes
+          - 🟨 Ajouter plus de coupe de cheveux (queue de cheval, long)
   
-          
+  - **Messages automatiques :**
+      - ❓ Message concernant les commandes disponibles (lien github vers documentations)
+     
   - **Sons :**
-      - ❓ Son collisions entre objets et avatar
+      - ❓ Son collisions entre objets et avatar (coeurs, touches)
+      - ❓ Son follow 
       - ❓ Son ctrl+s
       - ❓ Son raid
 
