@@ -5,7 +5,7 @@ Toutes les commandes faisable par les **Viewers** sont faisable par les **Modér
 
 Les commandes dans la documentation se présentent tel que :
 
-**!<nom commande> [option] [paramètre]** : _Réponse_
+**!nom commande [option] [paramètre]** : _Réponse_
 
 ## Pour les Viewers
 
