@@ -56,6 +56,9 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Son follow 
       - ❓ Son ctrl+s
       - ❓ Son raid
+      
+  - **Supprimer :**
+      - ❓ Supprimer les commandes administrateurs
 
 ### **Correction :**
   - ✅ Tout les viewers sont compté dans les raids
