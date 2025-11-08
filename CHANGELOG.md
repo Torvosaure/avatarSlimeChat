@@ -14,7 +14,15 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Ajout de la possibilité de changer le zoom de la version zoomé (_Molette_)
   
   - **Menus camembert :**
-      - ❓ Changement couleurs pie menus quand modifier key est pressée
+      - ❓ Changement couleurs selection quand modifier key est pressée
+   
+  - **Système de création de personnage :**
+      - ❓ !Commande expliquant comment faire
+      - ❓ Preview (avec pseudo) sur le stream du personnage en cours de création (erreur si personnage en cours de création)
+      - ❓ Timeout si innactivité de 2 minutes
+      - ❓
+      - ❓
+   
 
 ### **Modification :**
   - **Avatar :**
