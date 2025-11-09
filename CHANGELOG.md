@@ -17,11 +17,10 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Changement couleurs selection quand modifier key est pressée
    
   - **Système de création de personnage :**
-      - ❓ !Commande expliquant comment faire
-      - ❓ Preview (avec pseudo) sur le stream du personnage en cours de création (erreur si personnage en cours de création)
-      - ❓ Timeout si innactivité de 2 minutes
-      - ❓
-      - ❓
+      - ❓ !Commande expliquant comment faire (!perso edit | !perso *head/body/hair/eyes* *nb/none* | !perso save)
+      - ❓ Preview (avec pseudo) sur le stream du personnage en cours de création (erreur si déjà un personnage en cours de création)
+      - ❓ Timeout si innactivité de 2 minutes+
+      - ❓ Quand premier message du jour : son *Boop*, personnage qui apparaît avec une bulle pour dire Boop et le pseudo
    
 
 ### **Modification :**
