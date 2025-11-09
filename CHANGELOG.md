@@ -60,10 +60,11 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Message concernant les commandes disponibles (lien github vers documentations)
      
   - **Sons :**
-      - ❓ Son collisions entre objets et avatar (coeurs, touches)
-      - ❓ Son follow 
+      - ✅ Son collisions entre objets et avatar (coeurs, touches)
+      - ❓ Son Follow 
       - ❓ Son ctrl+s
-      - ❓ Son raid
+      - ❓ Son Raid
+      - ✅ Son Head Pat
       
   - **Supprimer :**
       - ❓ Supprimer les commandes administrateurs
