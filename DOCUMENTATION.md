@@ -17,7 +17,7 @@ Les commandes dans la documentation se présentent tel que :
 | ❓ | **!ping --drink** | !bois / !drink | _Fait apparaitre une bouteille d'eau tombante et effecture un effet sonore_ |
 | ❓ | **!ping --stretch** | !etirement / !stretching | _Me rappel de m'étirer_ |
 | ✅ | **!change --avatar angry** | !enerver / !angry | _Applique l'avatar énervé pendant 5 minutes (si vous considéré que je suis actuellement énervé)_ |
-| ✅ | **!emote --avatar *emote*** | !patpat | _Les émotes sont : patpat (5 secondes)_ |
+| ✅ | **!emote --avatar *emote*** | !patpat | _Les émotes sont : patpat (6 secondes)_ |
 
 ## Pour les Modérateurs
 
