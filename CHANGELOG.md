@@ -56,7 +56,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
           - 🟨 Ajouter plus de coupe de cheveux (queue de cheval, long)
   
   - **Messages automatiques :**
-      - ❓ Message concernant les commandes disponibles (lien github vers documentations)
+      - ❓ Message automatique concernant les commandes disponibles (lien github vers documentations)
      
   - **Sons :**
       - ✅ Son collisions entre objets et avatar (coeurs, touches)
