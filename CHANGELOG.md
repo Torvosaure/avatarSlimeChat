@@ -22,11 +22,6 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Timeout si innactivité de 2 minutes+
       - ❓ Quand premier message du jour : son *Boop*, personnage qui apparaît avec une bulle pour dire Salut/Yo/Bonjour et le pseudo
    
-
-### **Modification :**
-  - **Avatar :**
-    - ❓ Textures avatar version pixel art
-
 ### **Correction :**
   - ❓ Désactiver les alertes lorsque l'avatar est zoomé
 
@@ -53,10 +48,14 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
           - ✅ Random preset
           - ✅ Panneau "RAID"
           - ✅ Icônes
-          - 🟨 Ajouter plus de coupe de cheveux (queue de cheval, long)
+          - ✅ Ajouter plus de coupe de cheveux (queue de cheval, long, cour 2)
   
+  ### **Modification :**
+  - **Avatar :**
+    - ✅ Textures avatar version pixel art
+
   - **Messages automatiques :**
-      - ❓ Message automatique concernant les commandes disponibles (lien github vers documentations)
+      - ✅ Message automatique concernant les commandes disponibles (lien github vers documentations)
      
   - **Sons :**
       - ✅ Son collisions entre objets et avatar (coeurs, touches)
@@ -66,7 +65,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ✅ Son Head Pat
       
   - **Supprimer :**
-      - ❓ Supprimer les commandes administrateurs
+      - ✅ Supprimer les commandes administrateurs
 
 ### **Correction :**
   - ✅ Tout les viewers sont compté dans les raids
