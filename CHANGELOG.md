@@ -29,6 +29,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
 ### Correction :
   - ✅ TTS ne lis plus les commands commençant par "!"
+  - ✅ Tout les viewers sont compté dans les raids
 
 ### **Ajout :**
   - **Menu camembert émote (touche _Bouton E_) :**
@@ -50,10 +51,6 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
           - ✅ Icônes
           - ✅ Ajouter plus de coupe de cheveux (queue de cheval, long, cour 2)
   
-  ### **Modification :**
-  - **Avatar :**
-    - ✅ Textures avatar version pixel art
-
   - **Messages automatiques :**
       - ✅ Message automatique concernant les commandes disponibles (lien github vers documentations)
      
@@ -67,8 +64,9 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   - **Supprimer :**
       - ✅ Supprimer les commandes administrateurs
 
-### **Correction :**
-  - ✅ Tout les viewers sont compté dans les raids
+### **Modification :**
+  - **Avatar :**
+    - ✅ Textures avatar version pixel art
 
 ## [5.2.0] - 2025-08-14
 
