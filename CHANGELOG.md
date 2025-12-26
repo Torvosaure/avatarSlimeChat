@@ -30,11 +30,13 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ### Correction :
   - ✅ TTS ne lis plus les commands commençant par "!"
   - ✅ Tout les viewers sont compté dans les raids
+  - ❓ Fix message auto (message au lancement du stream)
+  - ❓ Fix compte de bot
 
 ### **Ajout :**
   - **Menu camembert émote (touche _Bouton E_) :**
       - ✅ Patpat classique (5 secondes) (couleur de la main lié à la couleur du pseudo)
-      - ❓ Coeur avec la queue (5 secondes)
+      - ❓ Coeur interne (5 secondes)
 
   - **Menu camembert test alertes (touche _Shift_) :**
       - 🟨 À boire (cascade/vague icône)
