@@ -30,8 +30,8 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ### Correction :
   - ✅ TTS ne lis plus les commands commençant par "!"
   - ✅ Tout les viewers sont compté dans les raids
-  - ❓ Fix message auto (message au lancement du stream)
-  - ❓ Fix compte de bot
+  - ✅ Fix message auto (message au lancement du stream)
+  - ✅ Fix compte de bot
 
 ### **Ajout :**
   - **Menu camembert émote (touche _Bouton E_) :**
@@ -40,7 +40,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 
   - **Menu camembert test alertes (touche _Shift_) :**
       - 🟨 À boire (cascade/vague icône)
-      - ❓ Étirement
+      - ✅ Étirement
       - ✅ Sauvegarde
       - ✅ Follow (setup texte)
       - ✅ Raid
