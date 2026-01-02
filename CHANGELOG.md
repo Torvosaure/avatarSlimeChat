@@ -61,6 +61,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ❓ Son Follow 
       - ❓ Son ctrl+s
       - ❓ Son Raid
+      - ❓ Son Etirement
       - ✅ Son Head Pat
       
   - **Supprimer :**
