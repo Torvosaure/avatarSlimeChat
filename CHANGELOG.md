@@ -37,10 +37,10 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   - **Menu camembert émote (touche _Bouton E_) :**
       - ✅ Patpat classique (5 secondes) (couleur de la main lié à la couleur du pseudo)
       - ❓ Coeur interne (5 secondes)
-
+      - ✅ Étirement
+  
   - **Menu camembert test alertes (touche _Shift_) :**
       - 🟨 À boire (cascade/vague icône)
-      - ✅ Étirement
       - ✅ Sauvegarde
       - ✅ Follow (setup texte)
       - ✅ Raid
@@ -58,9 +58,9 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
      
   - **Sons :**
       - ✅ Son collisions entre objets et avatar (coeurs, touches)
-      - ❓ Son Follow 
-      - ❓ Son ctrl+s
-      - ❓ Son Raid
+      - ✅ Son Follow 
+      - ✅ Son ctrl+s
+      - ✅ Son Raid
       - ✅ Son Etirement
       - ✅ Son Head Pat
       
