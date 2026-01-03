@@ -62,14 +62,15 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ✅ Son Raid
       - ✅ Son Etirement
       - ✅ Son Head Pat
-      
+      - 🟨 Son À boire
+  
   - **Supprimer :**
       - ✅ Supprimer les commandes administrateurs
 
 ### **Modification :**
   - **Avatar :**
     - ✅ Textures avatar version pixel art
-    - 🟨 Textures alertes love version pixel art
+    - ✅ Textures alertes love version pixel art
 
 ## [5.2.0] - 2025-08-14
 
