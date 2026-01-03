@@ -36,7 +36,6 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ### **Ajout :**
   - **Menu camembert émote (touche _Bouton E_) :**
       - ✅ Patpat classique (5 secondes) (couleur de la main lié à la couleur du pseudo)
-      - ❓ Coeur interne (5 secondes)
       - ✅ Étirement
   
   - **Menu camembert test alertes (touche _Shift_) :**
@@ -70,6 +69,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ### **Modification :**
   - **Avatar :**
     - ✅ Textures avatar version pixel art
+    - 🟨 Textures alertes love version pixel art
 
 ## [5.2.0] - 2025-08-14
 
