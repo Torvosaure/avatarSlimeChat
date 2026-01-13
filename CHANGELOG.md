@@ -7,6 +7,15 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 🟨 En cours
 ⛔ Supprimé
 ❓ Non commencé
+## [UNRELEASED - 5.5.0] - XXXX-XX-XX
+
+### **Ajouts :**
+  - ❓ Ajout switcher 2D-3D (menu camembert A)
+  - ❓ Retrocombatibilité avec la version 3D
+
+### **Corrections :**
+  **Majeurs :**
+    - ❓ Ajout script objectsManager (accès direct avatar, caméra, couleurs, settinge, ...)
 
 ## [UNRELEASED - 5.4.0] - XXXX-XX-XX
 ### **Ajout :** 
