@@ -48,7 +48,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ✅ Étirement
   
   - **Menu camembert test alertes (touche _Shift_) :**
-      - 🟨 À boire (cascade/vague icône)
+      - ✅ À boire (une pinte de flotte)
       - ✅ Sauvegarde
       - ✅ Follow (setup texte)
       - ✅ Raid
@@ -71,7 +71,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
       - ✅ Son Raid
       - ✅ Son Etirement
       - ✅ Son Head Pat
-      - 🟨 Son À boire
+      - ✅ Son À boire
   
   - **Supprimer :**
       - ✅ Supprimer les commandes administrateurs
