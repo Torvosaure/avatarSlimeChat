@@ -34,7 +34,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ### **Correction :**
   - ❓ Désactiver les alertes lorsque l'avatar est zoomé
 
-## [UNRELEASED - 5.3.0] - XXXX-XX-XX
+## [UNRELEASED - 5.3.0] - 2026-01-20
 
 ### Correction :
   - ✅ TTS ne lis plus les commands commençant par "!"
