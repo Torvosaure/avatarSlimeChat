@@ -14,7 +14,7 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
   - ❓ Retrocombatibilité avec la version 3D
 
 ### **Corrections :**
-  **Majeurs :**
+  - **Majeurs :**
     - ❓ Ajout script objectsManager (accès direct avatar, caméra, couleurs, settinge, ...)
 
 ## [UNRELEASED - 5.4.0] - XXXX-XX-XX
