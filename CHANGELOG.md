@@ -34,6 +34,16 @@ Aller à la [DOCUMENTATION](DOCUMENTATION.md)
 ### **Correction :**
   - ❓ Désactiver les alertes lorsque l'avatar est zoomé
 
+## [5.3.1] - 2026-01-30
+
+### Correction :
+  - ✅ Fix le fait de pouvoir spammer l'alerte à boire
+  - ✅ Fix le bot qui spam le message automatique d'aide
+  - ✅ Fix la command !patpat qui ne fonctionnait pas
+
+### Ajout :
+  - ✅ Ajout de la possibilité de clear les alertes sur l'écran
+
 ## [5.3.0] - 2026-01-20
 
 ### Correction :
